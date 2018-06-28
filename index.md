@@ -1,6 +1,5 @@
 # About this Guide
 
-
  Use this guide to define and implement infrastructure as code and automation capabilities for your Azure services. This guide will focus on the technical solution implementation of disaster recovery capabilities in Azure as part of the customers larger DevOps journey.
 
 ## Audience
@@ -22,7 +21,7 @@ Use the following activities to evaluate your needs in terms of business continu
 
 * [Azure Automation](2.0-Azure-Automation.md): Use the information in this section to define the automation strategies for your services.
 
-* [Automation for Data Management]3.0-Automation-for-Data-Management.md): Use the information in this section to define the automation strategies for data management and integration scenarios.
+* [Automation for Data Management](3.0-Automation-for-Data-Management.md): Use the information in this section to define the automation strategies for data management and integration scenarios.
 
 ## Next Steps
 
